@@ -18,7 +18,7 @@ Accurate domain-specific answers are critical in legal contexts, where misinterp
 
 **Methodology**
 
-**1. Synthetic Data Generation**
+**1.Synthetic Data Generation**
 
 Source: Legal text snippets from the Indian Companies Act, 2013.
 Generation: Used llama-3.3-70b-versatile via the Groq API.
@@ -26,7 +26,7 @@ Prompting: Refined strategies ensured answers were strictly grounded in context.
 Dataset Size: ~750 high-quality Q&A pairs.
 Dataset Hosting: Available on Hugging Face → ris32262/indian-corporate-law-qa-enhanced
 
-**2. Model Fine-tuning**
+**2.Model Fine-tuning**
 
 Base Model: Qwen/Qwen1.5-1.8B-Chat.
 Hardware: Google Colab T4 GPU.
