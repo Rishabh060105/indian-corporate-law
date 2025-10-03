@@ -37,8 +37,7 @@ lora_alpha = 128
 Targeted Modules: q_proj, k_proj, v_proj, o_proj, gate_proj, up_proj, down_proj
 Trainer: trl.SFTTrainer for supervised fine-tuning.
 
-**3. Model Evaluation
-**
+**3. Model Evaluation**
 
 **Evaluation Metrics:**
 
